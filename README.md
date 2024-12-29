@@ -1,4 +1,4 @@
-# Raven Amiatu
+# Data Science Enthusiast
 
 ## Education
 Data Science GradDip, Medical Science BA 
